@@ -1,0 +1,22 @@
+body{ background-color: rgb(255, 255, 255);
+text-align: center;
+color: rgb(255, 255, 255);
+}
+
+header{ padding: 50px;}
+
+#msg{ color: rgb(41, 38, 38);
+padding-bottom: 50px;}
+
+section{margin: auto;
+background-color:white;
+height: 300px;
+width: 350px;
+border-radius: 15px;
+box-shadow: 5px 5px 10px black;
+padding: 30px;
+}
+
+#img{border-radius: 100px;}
+
+footer{padding-top: 100px;}
